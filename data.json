@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "title": "Steins;Gate",
+      "genre": ["Sci-Fi", "Thriller"],
+      "rating": 9.1,
+      "episodesWatched": 12,
+      "totalEpisodes": 24,
+      "status": "Watching",
+      "description": "A group of friends accidentally discover a method of sending messages to the past, altering the flow of history and triggering a chain of events that could reshape the world."
+    },
+    {
+      "id": 2,
+      "title": "Attack on Titan",
+      "genre": ["Action", "Drama", "Fantasy"],
+      "rating": 9.0,
+      "episodesWatched": 75,
+      "totalEpisodes": 87,
+      "status": "Watching",
+      "description": "Humans fight for survival against giant humanoid Titans in a post-apocalyptic world."
+    },
+    {
+      "id": 3,
+      "title": "Your Name",
+      "genre": ["Romance", "Supernatural", "Drama"],
+      "rating": 8.9,
+      "episodesWatched": 1,
+      "totalEpisodes": 1,
+      "status": "Completed",
+      "description": "Two teenagers share a profound, magical connection upon discovering they are swapping bodies."
+    },
+    {
+      "id": 4,
+      "title": "Death Note",
+      "genre": ["Mystery", "Thriller", "Supernatural"],
+      "rating": 8.7,
+      "episodesWatched": 37,
+      "totalEpisodes": 37,
+      "status": "Completed",
+      "description": "A high school student discovers a mysterious notebook that grants the power to kill anyone by writing their name in it."
+    },
+    {
+      "id": 5,
+      "title": "Vivy: Fluorite Eye's Song",
+      "genre": ["Sci-Fi", "Music", "Action"],
+      "rating": 8.5,
+      "episodesWatched": 7,
+      "totalEpisodes": 13,
+      "status": "On Hold",
+      "description": "An AI songstress must change history to prevent a future war between humans and AIs."
+    }
+  ]
+  
